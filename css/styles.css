@@ -7,15 +7,22 @@ body {
   background: #fcc;
 }
 
-.menu {
-  background: #333;
-  color: #ccc;
-  line-height: 2em;
-}
-
 nav {
   display: none;
 }
+
+.menu {
+  background: #333;
+  color: #ccc;
+  line-height: 4em;
+}
+
+.menu:hover + nav , nav:hover {
+  color: #dfd;
+  display: flex;
+}
+
+
 
 
 
