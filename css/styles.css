@@ -7,7 +7,15 @@ body {
   background: #fcc;
 }
 
+.menu {
+  background: #333;
+  color: #ccc;
+  line-height: 2em;
+}
 
+nav {
+  display: none;
+}
 
 
 
@@ -38,6 +46,10 @@ body {
   nav a:hover {
     color: #dfd;
     background: #797;
+  }
+
+  .menu {
+    display: none;
   }
 }
 
