@@ -1,3 +1,2 @@
-# CTEC3905 Assignment
-
-This is very basic boilerplate code for you to get started with.
+# 04-lab
+Repo for Lab 4, CTEC3905
