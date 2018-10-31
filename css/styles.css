@@ -17,12 +17,17 @@ nav {
   line-height: 4em;
 }
 
+.menu-toggle {
+  display: flex;
+}
+
+/* Hover style block for menu */
+/*
 .menu:hover + nav , nav:hover {
   color: #dfd;
   display: flex;
 }
-
-
+*/
 
 
 
